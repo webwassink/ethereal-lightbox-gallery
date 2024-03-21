@@ -1,0 +1,22 @@
+{
+  "name": "ethereal-lightbox-gallery",
+  "version": "1.0.2",
+  "description": "A responsive lightbox gallery component for React applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webwassink/ethereal-lightbox-gallery"
+  },
+  "keywords": [
+    "react",
+    "lightbox",
+    "gallery"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react-images": "^1.0.0"
+  }
+}
